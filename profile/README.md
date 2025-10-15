@@ -23,4 +23,4 @@ Cada grupo de estudantes criará um repositório a partir do nosso template ofic
 ## 🧑‍💻 Contato para dúvias
 
 - Em caso de dúvidas, entre em contato com o monitor do seu grupo
-- APra ser adicionado a um repositório, peço ao monitor do seu grupo.
+- Para ser adicionado a um repositório, peça ao monitor.
