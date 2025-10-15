@@ -1,4 +1,4 @@
-# Disciplina IHC 2025.01 - UnB FCTE
+# Disciplina Interação Humano-Computador (IHC) - UnB FCTE
 
 Bem-vindo à organização da disciplina de **Interação Humano-Computador (IHC)**. </br>
 Docente: REJANE MARIA DA COSTA FIGUEIREDO
