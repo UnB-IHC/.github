@@ -10,7 +10,7 @@ Cada grupo de estudantes criará um repositório a partir do nosso template ofic
 ## 📜 Regras Gerais
 
 - Todos dos integrantes do grupo devem realizar commits para contabilizar nota.
-- Os repositórios DEVEM ser criados a partir do template.
+- Os repositórios PODEM ser criados a partir do template.
 - Total liberade para alterar QUALQUER coisa do template padrão. 
 
 ## 🚀 Como começar
