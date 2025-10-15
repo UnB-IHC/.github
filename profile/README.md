@@ -1,6 +1,6 @@
 # Disciplina IHC 2025.01 - UnB FCTE
 
-Bem-vindo à organização da disciplina de **Interação Humano-Computador (IHC)**.
+Bem-vindo à organização da disciplina de **Interação Humano-Computador (IHC)**. </br>
 Docente: REJANE MARIA DA COSTA FIGUEIREDO
 
 ## 🎯 Objetivo
@@ -16,8 +16,9 @@ Cada grupo de estudantes criará um repositório a partir do nosso template ofic
 ## 🚀 Como começar
 
 1. Acesse a aba de repositório e clique em "Novo repositório"
-2. Selecione o Repositório template: "UnBIHC2025-1/repositorio_template"
-3. E pode criar! 
+2. Selecione o Repositório template: "Un-BIHC/repositorio_template"
+3. Coloque o nome do seu repositorio como IHC_ano.semestre-grupo
+4. E pode criar! 
 
 ## 🧑‍💻 Contato para dúvias
 
